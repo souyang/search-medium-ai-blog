@@ -1,11 +1,10 @@
 {
   "name": "search-medium-ai-blog",
-  "displayName": "Search Medium AI Blogs",
-  "description": "Search latest Medium AI blogs",
-  "version": "1.0.3",
+  "displayName": "Medium AI Blogs",
+  "description": "Get latest Medium AI blogs",
+  "version": "1.0.5",
   "publisher": "souyang",
   "keywords": [
-    "search",
     "medium",
     "ai",
     "blog"
@@ -28,7 +27,7 @@
     "commands": [
       {
         "command": "search-medium-ai-blog.searchMediumAiBlog",
-        "title": "Search Medium AI Blogs"
+        "title": "Medium AI Blogs"
       }
     ]
   },
