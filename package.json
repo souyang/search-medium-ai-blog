@@ -10,7 +10,7 @@
     "url": "https://github.com/souyang/search-medium-ai-blog"
   },
   "engines": {
-    "vscode": "^1.3.0"
+    "vscode": "^1.84.0"
   },
   "categories": [
     "Other"
