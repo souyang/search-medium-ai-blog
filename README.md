@@ -22,4 +22,4 @@ We welcome contributions! Please follow our [contribution guidelines](.github/CO
 This project is licensed under the [MIT License](https://opensource.org/license/mit).
 
 ## Discussion
-Most development discussions take place on GitHub in this repo, via the [GitHub issue tracker](https://github.com/souyang/unit-grader/issues).
+Most development discussions take place on GitHub in this repo, via the [GitHub issue tracker](https://github.com/souyang/search-medium-ai-blog/issues).
