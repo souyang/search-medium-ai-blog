@@ -1,0 +1,13 @@
+{
+    "_comment": "frequency can be one of 'half-hourly', 'hourly', 'daily', 'weekly', or 'monthly'",
+    "rssFeedList": [
+        "https://medium.com/feed/@towardsdatascience",
+        "https://becominghuman.ai/feed",
+        "https://medium.com/feed/@towardsai",
+        "https://medium.com/feed/tag/generative-ai",
+        "https://medium.com/feed/tag/artificial-intelligence",
+        "https://medium.com/feed/tag/deep-learning",
+        "https://medium.com/feed/tag/llm"
+    ],
+    "fequency": "daily"
+}
