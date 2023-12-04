@@ -1,3 +1,5 @@
+![demo-work-demo](https://github.com/souyang/search-medium-ai-blog/assets/1447796/5d4f5558-7bd8-40f8-b01f-cc17cf6e5e93)
+
 # Medium Blog Search
 
 This extension lets you search for AI-Related Medium articles from within VSCode. 
