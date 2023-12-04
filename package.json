@@ -1,7 +1,7 @@
 {
   "name": "search-medium-ai-blog",
   "displayName": "Medium AI Blogs",
-  "description": "Get latest Medium AI blogs",
+  "description": "Get latest AI blogs from https://medium.com/",
   "version": "1.0.5",
   "publisher": "souyang",
   "keywords": [
