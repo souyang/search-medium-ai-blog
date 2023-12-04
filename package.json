@@ -2,7 +2,7 @@
   "name": "search-medium-ai-blog",
   "displayName": "Search Medium AI Blogs",
   "description": "Search latest Medium AI blogs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "publisher": "souyang",
   "icon": "logo.png",
   "repository": {
@@ -39,7 +39,7 @@
     "pre-commit": "lint-staged"
   },
   "lint-staged": {
-    "**/*.ts": "tsc-files --noEmit"
+    "**/*.ts": "prettier --write"
   },
   "devDependencies": {
     "@types/jest": "^29.5.10",
