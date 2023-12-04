@@ -31,7 +31,7 @@
     "pretest": "yarn run compile-tests && yarn run compile && yarn run lint",
     "lint": "eslint src --ext ts",
     "test": "vscode-test",
-    "prepare": "husky install",
+    "prepare": "husky install"
   },
   "husky": {
     "pre-commit": "lint-staged"
