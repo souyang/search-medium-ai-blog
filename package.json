@@ -4,12 +4,13 @@
   "description": "Search latest Medium AI blogs",
   "version": "1.0.2",
   "publisher": "souyang",
-  "icon": "logo.png",
+  "keywords": ["search", "medium", "ai", "blog"],
+  "icon": "images/logo.png",
   "repository": {
     "url": "https://github.com/souyang/search-medium-ai-blog"
   },
   "engines": {
-    "vscode": "^1.84.0"
+    "vscode": "^1.3.0"
   },
   "categories": [
     "Other"
