@@ -1,8 +1,10 @@
 {
   "name": "search-medium-ai-blog",
   "displayName": "Search Medium AI Blogs",
-  "description": "Search Medium AI blogs",
-  "version": "0.0.1",
+  "description": "Search latest Medium AI blogs",
+  "version": "1.0.1",
+  "publisher": "souyang",
+  "icon": "logo.png",
   "repository": {
     "url": "https://github.com/souyang/search-medium-ai-blog"
   },
