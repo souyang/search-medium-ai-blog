@@ -22,11 +22,11 @@ Run the command `Medium AI blogs` and then search for any query to narrow the li
 ## Contributing Guideline
 We welcome contributions! Please follow our [contribution guidelines](.github/CONTRIBUTING.md).
 
-## License
+# License
 This project is licensed under the [MIT License](https://opensource.org/license/mit).
 
-## Discussion
+# Discussion
 Most development discussions take place on GitHub in this repo, via the [GitHub issue tracker](https://github.com/souyang/search-medium-ai-blog/issues).
 
-## Visual Studio Marketplace
+# Visual Studio Marketplace
 [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=souyang.search-medium-ai-blog)

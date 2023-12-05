@@ -1,4 +1,4 @@
-# Contributing to Unit Grader
+# Contributing to Project
 
 By participating in this project, you agree to abide by the [code of conduct](CODE_OF_CONDUCT.md).
 
